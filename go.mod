@@ -1,4 +1,4 @@
-module github.com/yasserjanah/BasicAuthBruteForcer
+module github.com/Azt3c/BasicAuthBruteForcer
 
 go 1.14
 
