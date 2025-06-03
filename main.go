@@ -5,7 +5,7 @@ import (
 	"os"
 	"flag"
 	"sync"
-	"github.com/yasserjanah/BasicAuthBruteForcer/scripts"
+	"github.com/Azt3c/BasicAuthBruteForcer/scripts"
 	"github.com/fatih/color"
 )
 
